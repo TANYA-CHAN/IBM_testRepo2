@@ -18,4 +18,4 @@ elif (year % 4 ==0) and (year % 100 != 0):
 # if not divided by both 400 (century year) and 4 (not century year)
 # year is not leap year
 else:
-    print("{0} is not a leap year".format(year))
+    print("{0} is not a leap year! Try Agin if you wish!".format(year))
